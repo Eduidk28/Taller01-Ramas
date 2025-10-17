@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+HEAD
+HEAD
+target/
+
+
+/nbproject/private/
+>>>>>>> artista
+target/
+>>>>>>> 5607def1048f4dcf6fb78a46fcb92ab9c03fc370
 
 # Compiled class files
 *.class
@@ -65,4 +77,21 @@ nbdist/
 # =========================
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 >>>>>>> bdc46ada971cb9f2e57b5b66b12c5cde88ad6433
+=======
+bdc46ada971cb9f2e57b5b66b12c5cde88ad6433
+=======
+<<<<<<< HEAD
+/nbproject/private/
+=======
+<<<<<<< HEAD
+target/
+
+=======
+/nbproject/private/
+>>>>>>> artista
+target/
+>>>>>>> parent of c1a6ae8 (Merge branch 'main' of github.com:Eduidk28/Taller01-Ramas)
+>>>>>>> artista
+>>>>>>> 5607def1048f4dcf6fb78a46fcb92ab9c03fc370

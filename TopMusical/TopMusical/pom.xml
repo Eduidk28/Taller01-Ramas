@@ -21,9 +21,15 @@
             <version>13</version>
         </dependency>
         <dependency>
+<<<<<<< HEAD
             <groupId>eu.hansolo.fx</groupId>
             <artifactId>countries</artifactId>
             <version>17.0.12</version>
+=======
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-graphics</artifactId>
+            <version>25-ea+21</version>
+>>>>>>> 5607def1048f4dcf6fb78a46fcb92ab9c03fc370
             <type>jar</type>
         </dependency>
     </dependencies>
