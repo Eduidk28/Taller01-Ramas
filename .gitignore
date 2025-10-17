@@ -80,8 +80,15 @@ HEAD
 /nbproject/private/
 
 HEAD
+HEAD
 target/
 
+
+ HEAD
+target/
+
+
+87bbdee (Cambios gitignore)
 /nbproject/private/
 artista
 target/
