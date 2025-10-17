@@ -7,6 +7,10 @@ Cambio realizado por el lider
 
 
 
+
+
 Cambio realizado por el integrante 3
 
-![Captura del cambio de artista](Taller01-Ramas/imagen/Cambio1.png)
+![Captura del cambio de artista](/TopMusical/TopMusical/assets/Cambio1.png)
+
+
