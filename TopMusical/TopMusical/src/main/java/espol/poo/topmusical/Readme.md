@@ -1,1 +1,1 @@
-![Imagen no cargada](imagen/Cambio1.png)
+![Imagen no cargada](cambio1.png)
