@@ -1,13 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+HEAD
+>>>>>>> ea47bbd412cb79ac87b724bb60954f0d205d8892
 HEAD
 HEAD
 target/
 
 
 /nbproject/private/
->>>>>>> artista
+artista
 target/
 >>>>>>> 5607def1048f4dcf6fb78a46fcb92ab9c03fc370
 
@@ -81,17 +85,28 @@ Thumbs.db
 >>>>>>> bdc46ada971cb9f2e57b5b66b12c5cde88ad6433
 =======
 bdc46ada971cb9f2e57b5b66b12c5cde88ad6433
-=======
-<<<<<<< HEAD
+
+HEAD
 /nbproject/private/
-=======
-<<<<<<< HEAD
+
+HEAD
+HEAD
 target/
 
-=======
-/nbproject/private/
->>>>>>> artista
+
+ HEAD
 target/
+<<<<<<< HEAD
 >>>>>>> parent of c1a6ae8 (Merge branch 'main' of github.com:Eduidk28/Taller01-Ramas)
 >>>>>>> artista
 >>>>>>> 5607def1048f4dcf6fb78a46fcb92ab9c03fc370
+=======
+
+
+87bbdee (Cambios gitignore)
+/nbproject/private/
+artista
+target/
+parent of c1a6ae8 (Merge branch 'main' of github.com:Eduidk28/Taller01-Ramas)
+artista
+>>>>>>> ea47bbd412cb79ac87b724bb60954f0d205d8892
