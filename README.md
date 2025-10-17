@@ -1,9 +1,9 @@
 # Taller01-Ramas
 
 ## Rama: artista
+Cambio realizado por el lider
 
-
-
+![Captura del cambio de titulo](/TopMusical/TopMusical/assets/captura_titulo.png)
 
 
 
