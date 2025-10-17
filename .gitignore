@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+HEAD
 HEAD
 HEAD
 target/
 
 
 /nbproject/private/
->>>>>>> artista
+artista
 target/
 
 # Compiled class files
@@ -75,16 +75,15 @@ nbdist/
 .DS_Store
 Thumbs.db
 bdc46ada971cb9f2e57b5b66b12c5cde88ad6433
-=======
-<<<<<<< HEAD
+
+HEAD
 /nbproject/private/
-=======
-<<<<<<< HEAD
+
+HEAD
 target/
 
-=======
 /nbproject/private/
->>>>>>> artista
+artista
 target/
->>>>>>> parent of c1a6ae8 (Merge branch 'main' of github.com:Eduidk28/Taller01-Ramas)
->>>>>>> artista
+parent of c1a6ae8 (Merge branch 'main' of github.com:Eduidk28/Taller01-Ramas)
+artista

@@ -1,0 +1,1 @@
+![Imagen no cargada](assets/Cambio1.png)
